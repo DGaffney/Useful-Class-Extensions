@@ -1,0 +1,11 @@
+Gem::Specification.new do |s|
+  s.name = %q{useful_class_extensions}
+  s.version = "0.0.1"
+  s.date = %q{2012-03-14}
+  s.authors = ["Devin Gaffney"]
+  s.email = %q{itsme@devingaffney.com}
+  s.summary = %q{I keep re-using these little additional primitive extensions all the time. So I made a gem.}
+  s.homepage = %q{http://devingaffney.com}
+  s.description = %q{A set of useful small class extensions to do basic things that aren't for some reason already part of ruby or rails.}
+  s.files = [ "array.rb", "fixnum.rb", "hash.rb", "nil_class.rb", "string.rb", "time.rb"]
+end
