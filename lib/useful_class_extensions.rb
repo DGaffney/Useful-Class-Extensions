@@ -136,7 +136,6 @@ end
 class String
 
   require 'rubygems'
-  require 'htmlentities'
 
   def write(str)
     self << str

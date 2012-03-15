@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name = %q{useful_class_extensions}
-  s.version = "0.0.4"
+  s.version = "0.0.5"
   s.date = %q{2012-03-14}
   s.authors = ["Devin Gaffney"]
   s.email = %q{itsme@devingaffney.com}
